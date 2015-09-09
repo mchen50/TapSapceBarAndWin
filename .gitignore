@@ -6,6 +6,8 @@ Obj/
 UnityGenerated/
 Library/
 Assets/AssetStoreTools*
+TapSpaceBarAndWin_Data/
+*.exe
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
